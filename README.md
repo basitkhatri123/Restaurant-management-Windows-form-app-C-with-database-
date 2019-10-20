@@ -1,1 +1,1 @@
-# Restaurant-management-Windows-form-app-C-with-database-
+# Restaurant-management-Windows-form-app-C#-with-database-
